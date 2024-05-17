@@ -12,4 +12,4 @@ As each jellyfish is caught by the trident, the jellyfish is removed from the sc
 
 Enjoy!
 
-![Image of personal website](https://github.com/km-verde/km-ver.github.io/blob/main/images/portfolioImg.png)
+![Image of personal website](https://github.com/km-verde/Jellyfishing-Game/blob/main/images/jellyfishingStart.png)
