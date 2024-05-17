@@ -1,3 +1,5 @@
+## Jellyfishing
+
 This is a Fly Swatter game that I revamped as a Jellyfishing game! The premise is to get players to catch the jellyfish to power their trident.
 
 Controls:
