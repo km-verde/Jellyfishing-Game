@@ -9,3 +9,5 @@ Controls:
 As each jellyfish is caught by the trident, the jellyfish is removed from the screen and you get a point! Jellyfish can move at different speeds, which can make the game a bit tricky. So, there is an option to end early, but the goal is to get all jellyfish to “win”!
 
 Enjoy!
+
+![Image of personal website](https://github.com/km-verde/km-ver.github.io/blob/main/images/portfolioImg.png)
